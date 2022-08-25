@@ -1,2 +1,1 @@
-# chatify
-Chatify
+# Chat App assignment
